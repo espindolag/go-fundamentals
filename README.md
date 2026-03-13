@@ -3,4 +3,4 @@
 ## Requirements
 
 1. Text editor (Visual Studio Code)
-2.  [GO Packages](https://go.dev/)
+2. [GO Packages](https://go.dev/)
